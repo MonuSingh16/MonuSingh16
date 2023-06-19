@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist / Machine Learning Engineer
 ------------------------------------------
 
-A ML engineer with over 6 years of experience in data analytics with understanding of modern machine learning techniques, and experience in using different machine learning frameworks; Hands-on experience in building, deploying more than 10+ AI applications with proven business outcome; 5 Awards in last 6 years
+A ML engineer with over 4 years of experience in data analytics with understanding of modern machine learning techniques, and experience in using different machine learning frameworks; Hands-on experience in building, deploying more than 10+ AI applications with proven business outcome;
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [monu.singh9203@gmail.com](mailto:monu.singh9203@gmail.com)
