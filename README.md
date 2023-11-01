@@ -5,8 +5,7 @@ A ML engineer with over 5 years of experience in data analytics with understandi
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [monu.singh9203@gmail.com](mailto:monu.singh9203@gmail.com)
-* 🧠  I'm learning LLMs and Databricks
-* 🤝  I'm open to collaborating on Omdena Projects, Kaggle Competitions
+* 🤝  I'm open to collaborating on Omdena Projects, Kaggle Competitions, Freelance, Consultancy
 
 <!---
 MonuSingh16/MonuSingh16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
