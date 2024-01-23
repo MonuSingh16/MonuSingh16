@@ -5,7 +5,7 @@ A ML engineer with over 5 years of industry experience; With understanding of mo
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [monu.singh9203@gmail.com](mailto:monu.singh9203@gmail.com)
-* 🤝  I'm open to collaborating on Omdena Projects, Kaggle Competitions, Freelance, Consultancy
+* 🤝  I'm open to collaborating on ML Projects, Kaggle Competitions, Consultancy
 
 <!---
 MonuSingh16/MonuSingh16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
