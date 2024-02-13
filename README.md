@@ -1,7 +1,7 @@
 Data Scientist / Machine Learning Engineer
 ------------------------------------------
 
-A ML engineer with over 5 years of industry experience; With understanding of modern machine learning techniques, and experience in using different machine learning frameworks; Hands-on experience in building, deploying ML applications with proven business outcomes;
+A experienced machine learning engineer in implementing machine learning techniques, and frameworks (Sickit-learn, TensorFlow, PyTorch); Hands-on experience in building, and deploying more than 10+ ML Apps
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [monu.singh9203@gmail.com](mailto:monu.singh9203@gmail.com)
